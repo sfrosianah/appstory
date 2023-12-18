@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Story App 1</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="email_check">Email salah!</string>
+    <string name="password_check">Password tidak boleh kurang dari 8 karakter !!!</string>
+    <string name="peringatan_email">Masukkan Email !!!</string>
+    <string name="peringatan_password">Masukkan Password !!!</string>
+    <string name="peringatan_nama">"Nama tidak boleh kosong!"</string>
+
+    <string name="nama">Nama</string>
+    <string name="login">Story Login App</string>
+    <string name="login2">Login</string>
+    <string name="register">Register</string>
+    <string name="register2">Story Register App</string>
+
+    <string name="add_story">Add Story</string>
+    <string name="description">Deskripsi</string>
+    <string name="imageStory">Image</string>
+    <string name="kamera">Kamera</string>
+    <string name="galeri">Galeri</string>
+    <string name="upload">Upload</string>
+    <string name="upload_story">Upload Story</string>
+
+    <string name="name2">Name User</string>
+    <string name="date">Tanggal Dibuat</string>
+    <string name="notFound">Cannot find your story</string>
+    <string name="already_login">Already Login</string>
+    <string name="storySuccess">Berhasil Menambahkan Cerita</string>
+    <string name="storyError">Gagal Menambahkan Cerita</string>
+    <string name="email_registered">Email sudah pernah didaftarkan</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Maps</string>
+    <string name="logout">logout</string>
+    <string name="no_response">Not Responding</string>
+    <string name="requiredDescription">Deskripsi Harus Diisi !</string>
+    <string name="addImage">Mohon Tambahkan Gambar</string>
+
+    <string name="lat">Lat :</string>
+    <string name="lon">Lon :</string>
+    <string name="alertMessage">Apakah kamu yakin untuk Logout?</string>
+    <string name="alertTitle">Logout</string>
+    <string name="alertNegativ">Tidak</string>
+    <string name="alertPositive">Ya</string>
+    <string name="logoutSuccess">Kamu telah logout</string>
+    <string name="logo">Logo</string>
+    <string name="shareloc">Share Location</string>
+    <string name="error_message">Terjadi kesalahan</string>
+
+</resources>
